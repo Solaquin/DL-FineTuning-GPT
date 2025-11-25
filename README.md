@@ -18,21 +18,21 @@ Puedes ver la presentación completa del proyecto aquí:
 ├── Docs/                            #Documentos de investigación 
 ├── models/
 │   └── tinyllama-gaming-1b-lora/    # Modelo fine-tuned con adaptadores LoRA
-├── notebooks/                        # Jupyter notebooks para experimentación
+├── notebooks/                       # Jupyter notebooks para experimentación
 ├── utils/                           # Utilidades y funciones auxiliares
 ├── .gitattributes                   # Configuración de atributos de Git
 ├── .gitignore                       # Archivos ignorados por Git
 ├── README.md                        # Este archivo
-├── app.py                          # Aplicación principal
-└── requirements.txt                # Dependencias del proyecto
+├── app.py                           # Aplicación principal
+└── requirements.txt                 # Dependencias del proyecto
 ```
 
 ## 🚀 Instalación
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-repositorio>
+git clone https://github.com/Solaquin/DL-FineTuning-GPT.git
+cd DL-FineTuning-GPT
 ```
 
 2. Instala las dependencias:
